@@ -5,11 +5,12 @@ var users =[
 {
     username : "user1",
     pwd      : "pwd1",
-    userId   : 1},
+    userId   : 1
+},
 {     
     username : "user2",
     pwd      : "pwd2",
-    userId   : 1 
+    userId   : 2
 }
 ];
 
